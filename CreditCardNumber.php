@@ -16,7 +16,7 @@ use yii\helpers\Html;
  * Credit card number validation for Yii2 framework configured to use client validation courtesy of stripe as per
  * https://github.com/stripe/jquery.payment and to work with yii.activeform.js.
  *
- * @author Ganesh Alkurn <admin@newzealandfishing.com>
+ * @author Ganesh Alkurn <ganesh.alkurn@gmail.com>
  */
 class CreditCardNumber extends InputWidget
 {

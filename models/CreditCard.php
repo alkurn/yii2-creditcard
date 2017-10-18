@@ -17,7 +17,7 @@ use Yii;
 /**
  * Credit card model.
  *
- * @author Ganesh Alkurn <admin@newzealandfishing.com>
+ * @author Ganesh Alkurn <ganesh.alkurn@gmail.com>
  */
 class CreditCard extends Model
 {

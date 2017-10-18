@@ -22,7 +22,7 @@ use yii\validators\StringValidator;
  *
  * This helps for PCI compliance.
  *
- * @author Ganesh Alkurn <admin@newzealandfishing.com>
+ * @author Ganesh Alkurn <ganesh.alkurn@gmail.com>
  */
 class InputWidget extends \kartik\base\InputWidget
 {

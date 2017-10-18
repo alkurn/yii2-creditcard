@@ -17,7 +17,7 @@ use Yii;
  * Yii2 Validator to validator CVC/CVV/CVS credit card attribute in client on blur using $.payment.validateCardCVC from
  * https://github.com/stripe/jquery.payment and working with ActiveForm (yii.activeform.js).
  *
- * @author Ganesh Alkurn <admin@newzealandfishing.com>
+ * @author Ganesh Alkurn <ganesh.alkurn@gmail.com>
  */
 class CCCVCodeValidator extends Validator
 {
